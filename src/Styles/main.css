@@ -1,0 +1,24 @@
+:root{
+    --dark-carmin: rgb(102, 0, 0);
+    --carmin: rgb(153, 0, 0);
+    --light-carmin: #cc0101;
+    --salmon: rgb(255, 204, 204);
+}
+
+.bg-dark-carmin{
+    background-color: var(--dark-carmin);
+}
+
+/* Text colors */
+
+.text-salmon{
+    color: var(--salmon);
+}
+
+.bg-carmin{
+    background-color: var(--carmin);
+}
+
+.bg-light-carmin{
+    background-color: var(--light-carmin);
+}
